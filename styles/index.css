@@ -1,4 +1,4 @@
-.body {
+body {
   background-image: url(media/background.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -9,8 +9,9 @@
 .main_department {
   border: 2px solid;
   width: 400px;
-  height: auto;
+  height: 100%;
   float: center;
+  background-color: #dedede;
 }
 
 .top_part {
@@ -25,12 +26,17 @@
   background-color: #dedede;
 }
 
+nav {
+  background-color: #c7c7c7;
+}
+
 
 .name {
   font-family: verdana, arial;
+  font-size: 55%;
 }
 
 .about {
   font-family: "lucida console", "courier new";
-  font-size: 16px;
+  font-size: 35%;
 }
