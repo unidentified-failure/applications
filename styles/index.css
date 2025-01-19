@@ -8,23 +8,17 @@ body {
   height: 100%;
 }
 
-main_department {
-  width: 800px;
-  height: 100%;
-  float: center;
-}
-
-top_part {
+.top_part {
   height: 25%
   background-color: #dedede;
 }
 
-middle_part {
+.middle_part {
   height: 70%
   background-color: #c7c7c7;
 }
 
-lower_part {
+.lower_part {
   height: 25%
   background-color: #dedede;
 }
