@@ -1,5 +1,5 @@
 body {
-  background-image: url(media/background.jpg);
+  background-image: url("media/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -15,14 +15,17 @@ body {
 }
 
 .top_part {
+  height: 25%
   background-color: #dedede;
 }
 
 .middle_part {
+  height: 70%
   background-color: #c7c7c7;
 }
 
 .lower_part {
+  height: 25%
   background-color: #dedede;
 }
 
