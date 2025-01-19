@@ -6,24 +6,24 @@ body {
   background-size: cover;
 }
 
-.main_department {
+main_department {
   width: 800px;
-  height: 100%;
+  height: 9999999999px;
   float: center;
   background-color: #dedede;
 }
 
-.top_part {
+top_part {
   height: 25%
   background-color: #dedede;
 }
 
-.middle_part {
+middle_part {
   height: 70%
   background-color: #c7c7c7;
 }
 
-.lower_part {
+lower_part {
   height: 25%
   background-color: #dedede;
 }
