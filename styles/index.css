@@ -1,1 +1,36 @@
+.body {
+  background-image: url(media/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
+.main_department {
+  border: 2px solid;
+  width: 400px;
+  height: auto;
+  float: center;
+}
+
+.top_part {
+  background-color: #dedede;
+}
+
+.middle_part {
+  background-color: #c7c7c7;
+}
+
+.lower_part {
+  background-color: #dedede;
+}
+
+
+.name {
+  font-family: verdana, arial;
+}
+
+.about {
+  font-family: "lucida console", "courier new";
+  font-size: 16px;
+}
